@@ -26,15 +26,22 @@ The proposed solution is a dynamic web-based platform called SimuSelect, designe
 
 ## Technology Stack
 Next.js
+
 Node.js
+
 PostgreSQL
+
 OpenAI API
+
 Firebox Authenticator
+
 Git , Postman or Insomnia
 
 
 ## Dependencies
 Mapping service -20 days
+
 Data collection-10 days
+
 Budget-Rs.30,000
 
